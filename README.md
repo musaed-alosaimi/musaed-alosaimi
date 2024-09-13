@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @musaed-alosaimi
-- 👀 I’m interested in Front-End Development, React, UI design
-- 🌱 I’m currently learning technical and soft-skills
-- 💞️ I’m looking to collaborate on building software projects
+- 👨‍💻 I’m interested in Software development, both back-end and front-end.
+- 🔥 I love solving programming challenges.
+- 🌱 I’m working hard to improve my self in terms of knowledge, technical-skills, and soft-skills.
+- 💞️ I’m looking to collaborate on building software projects.
 - 📫 You can reach me on:
 -     Email: alosaimi.msaad@gmail.com
 -     LinkedIn: https://www.linkedin.com/in/musaed-alosaimi/
